@@ -1,0 +1,189 @@
+
+
+
+/* Reset styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 40px;
+}
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-left {
+    font-size: 1.5rem;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+.nav-right {
+    font-size: 1.2rem;
+}
+
+.register-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.page-heading {
+    margin-bottom: 20px;
+}
+
+.profile-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.profile-card {
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+}
+
+.profile-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+.profile-photo {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.profile-info {
+    padding: 20px;
+}
+
+.profile-info h2 {
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.profile-info p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    color: #777;
+}
+
+.no-results {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+    margin-top: 20px;
+}
+
+.logout-button {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.logout-button:hover {
+    background-color: #e60000;
+}
+
+
+
+<?php
+session_start();
+
+// Check if user is not logged in, redirect to login page
+if (!isset($_SESSION['user_id'])) {
+    header("Location: login.php");
+    exit();
+}
+
+// Include database connection file
+include 'includes/db.php';
+
+// Fetch profile of the logged-in user
+$user_id = $_SESSION['user_id'];
+$sql = "SELECT * FROM users WHERE id = $user_id";
+$result = $conn->query($sql);
+
+// If profile found, store it
+if ($result && $result->num_rows > 0) {
+    $profile = $result->fetch_assoc();
+} else {
+    // If profile not found, handle it accordingly
+    echo "<p class='no-results'>Profile not found.</p>";
+    exit(); // Terminate script execution
+}
+
+// Close the database connection
+$conn->close();
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Tab</title>
+    <link rel="stylesheet" href="css/adminstyle.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-left">
+                <span class="logo">Kape Kita</span>
+            </div>
+            <div class="nav-right">
+                <a href="logout.php" class="logout-button">Logout</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1 class="page-heading">Welcome to your Profile Tab!</h1>
+        <div class="profile-grid">
+            <div class="profile-card">
+                <img src="images/<?php echo $profile['profile_photo']; ?>" alt="<?php echo $profile['full_name']; ?>" class="profile-photo">
+                <div class="profile-info">
+                    <p><strong>ID:</strong> <?php echo $profile['id']; ?></p>
+                    <p><strong>Name:</strong> <?php echo $profile['full_name']; ?></p>
+                    <p><strong>Email:</strong> <?php echo $profile['email']; ?></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
