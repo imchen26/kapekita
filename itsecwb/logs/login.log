@@ -1,0 +1,105 @@
+[2024-08-03 13:19:07] User (kyna@gmail.com): Login Successful
+[2024-08-03 13:19:45] Admin (admin@example.com): Login Failed
+[2024-08-03 13:20:21] Admin (admin@example.com): Login Failed
+[2024-08-03 13:20:23] Admin (admin@example.com): Login Failed
+[2024-08-03 13:20:28] Admin (admin@example.com): Login Failed
+[2024-08-03 13:20:32] Admin (admin@example.com): Login Failed
+[2024-08-03 13:20:37] Admin (admin@example.com): Login Failed
+[2024-08-03 13:20:45] User (kyna@gmail.com): Login Successful
+[2024-08-03 13:20:52] Admin (admin@example.com): Login Failed
+[2024-08-03 13:20:56] Admin (admin@example.com): Login Failed
+[2024-08-03 13:20:58] Admin (admin@example.com): Login Failed
+[2024-08-03 13:21:01] Admin (admin@example.com): Login Failed
+[2024-08-03 13:21:03] Admin (admin@example.com): Login Failed
+[2024-08-03 13:21:09] Admin (admin@example.com): Login Failed
+[2024-08-03 13:21:15] Admin (admin@example.com): Login Failed
+[2024-08-03 13:21:20] Admin (admin@example.com): Login Failed
+[2024-08-03 13:21:27] User (kyna@gmail.com): Login Successful
+[2024-08-03 13:22:04] Admin (admin@example.com): Login Failed
+[2024-08-03 13:22:06] Admin (admin@example.com): Login Failed
+[2024-08-03 13:22:09] Admin (admin@example.com): Login Failed
+[2024-08-03 13:22:11] Admin (admin@example.com): Login Failed
+[2024-08-03 13:22:13] Admin (admin@example.com): Login Failed
+[2024-08-03 13:28:02] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 13:28:13] Admin (admin@example.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-03 13:28:15] Admin (admin@example.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-03 13:28:17] Admin (admin@example.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-03 13:28:20] Admin (admin@example.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-03 13:28:22] Admin (admin@example.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-03 13:28:22] User (admin@example.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Too many login attempts. Please try again later.
+[2024-08-03 13:28:24] User (admin@example.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: You are temporarily banned. Please try again in 8 seconds.
+[2024-08-03 13:28:29] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: You are temporarily banned. Please try again in 3 seconds.
+[2024-08-03 13:28:34] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 13:30:56] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-03 13:31:01] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-03 13:34:03] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 14:04:52] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 14:06:40] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 14:07:22] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 14:42:03] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-03 14:42:20] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 15:13:24] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 15:26:44] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 15:37:03] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 15:45:58] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 15:47:52] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 15:47:59] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 15:49:12] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 15:49:22] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 15:51:33] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 15:58:04] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 15:58:11] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 16:01:18] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 16:20:50] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 16:21:31] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 16:22:35] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-03 16:32:44] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 15:08:02] User (jcee@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: No user found with that email.
+[2024-08-04 15:10:29] User (jcee@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 15:24:33] User (admin2@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: No user found with that email.
+[2024-08-04 15:25:06] Admin (admin@example.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-04 15:25:17] Admin (admin@example.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-04 15:27:52] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 15:33:45] User (jcee@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 16:05:22] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-04 16:05:39] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 16:08:39] User (jcee@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 16:09:16] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 16:10:30] User (jcee@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 16:11:32] User (jcee@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 18:14:32] User (jcee@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 19:24:56] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 19:25:43] User (jcee@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 22:03:18] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 22:04:21] User (jcee@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 22:06:35] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 22:08:23] User (jcee@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-04 22:11:15] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-08 08:07:02] User (example@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-08 08:07:37] User (testing@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-08 15:54:01] User (testing@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-08 16:49:55] User (testing@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0: Login Successful
+[2024-08-08 18:07:24] User (kyna@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-08 18:29:02] User (testing@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-08 18:29:08] User (testing@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-08 18:31:04] User (testing@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-08 18:38:43] User (hello@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-08 18:50:36] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-08 18:53:19] User (testing@gmail.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-08 18:53:42] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-08 19:13:57] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-08 19:31:54] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0: Login Successful
+[2024-08-09 05:35:29] User (testing@gmail.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-09 05:42:15] User (testing@gmail.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-09 05:48:09] User (testing@gmail.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: Invalid password.
+[2024-08-09 05:48:15] User (testing@gmail.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-09 11:56:38] User (testing@gmail.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-09 12:16:15] Admin (admin@test.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-09 12:23:19] User (testing@gmail.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-09 12:28:30] Admin (admin@test.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-09 12:34:24] User (test@gmail.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Failed - Error: No user found with that email.
+[2024-08-09 12:34:32] User (testing@gmail.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-09 12:40:57] User (hatdog@gmail.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-09 12:54:29] User (testing@gmail.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-09 12:58:43] User (testing@gmail.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful
+[2024-08-09 12:59:33] Admin (admin@test.com) - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36: Login Successful

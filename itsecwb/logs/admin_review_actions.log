@@ -1,0 +1,4 @@
+[2024-08-03 16:15:31] Admin ID: 2 - Email: admin@test.com - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 - Action: Delete - Review ID: 21
+[2024-08-03 16:17:38] Admin ID: 2 - Email: admin@test.com - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 - Action: Add - Review ID: 22
+[2024-08-03 16:17:46] Admin ID: 2 - Email: admin@test.com - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 - Action: Edit - Review ID: 22
+[2024-08-03 16:18:03] Admin ID: 2 - Email: admin@test.com - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 - Action: Delete - Review ID: 22

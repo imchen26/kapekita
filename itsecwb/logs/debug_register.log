@@ -1,0 +1,166 @@
+[ERROR] | 2024-08-03 11:12:18 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 11:12:18 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:119]
+[ERROR] | 2024-08-03 11:12:18 | Invalid phone number format.
+[ERROR] | 2024-08-03 11:12:18 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:141]
+[ERROR] | 2024-08-03 11:12:25 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 11:12:25 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:119]
+[ERROR] | 2024-08-03 11:12:25 | Invalid phone number format.
+[ERROR] | 2024-08-03 11:12:25 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:141]
+[INFO] | 2024-08-03 11:12:45 | Registration simulated for dvwadb@gmail.com
+[INFO] | 2024-08-03 11:13:00 | Registration simulated for dvwadb@gmail.com
+[ERROR] | 2024-08-03 11:13:17 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 11:13:17 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:119]
+[ERROR] | 2024-08-03 11:13:17 | Invalid phone number format.
+[ERROR] | 2024-08-03 11:13:17 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:141]
+[ERROR] | 2024-08-03 11:13:52 | Invalid email format.
+[ERROR] | 2024-08-03 11:13:52 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:84]
+[ERROR] | 2024-08-03 11:13:52 | The local part of the email address is too long (max of 64 characters).
+[ERROR] | 2024-08-03 11:13:52 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:99]
+[ERROR] | 2024-08-03 11:15:07 | Invalid email format.
+[ERROR] | 2024-08-03 11:15:07 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:84]
+[ERROR] | 2024-08-03 11:15:07 | The local part of the email address is too long (max of 64 characters).
+[ERROR] | 2024-08-03 11:15:07 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:99]
+[ERROR] | 2024-08-03 11:27:36 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 11:27:36 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:119]
+[ERROR] | 2024-08-03 11:27:36 | Invalid phone number format.
+[ERROR] | 2024-08-03 11:27:36 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:141]
+[ERROR] | 2024-08-03 11:31:19 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 11:31:19 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:119]
+[ERROR] | 2024-08-03 11:31:19 | Invalid phone number format.
+[ERROR] | 2024-08-03 11:31:19 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:141]
+[ERROR] | 2024-08-03 11:36:12 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 11:36:12 | Invalid phone number format.
+[ERROR] | 2024-08-03 11:36:36 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 11:36:36 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 11:36:36 | Invalid phone number format.
+[ERROR] | 2024-08-03 11:36:36 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 11:36:53 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 11:37:13 | A user with this email already exists.
+[ERROR] | 2024-08-03 11:37:13 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:78]
+[ERROR] | 2024-08-03 11:37:33 | A user with this email already exists.
+[SUCCESS] | 2024-08-03 11:37:50 | User registered successfully: alexi@gmail.com
+[ERROR] | 2024-08-03 11:42:46 | A user with this email already exists.
+[SUCCESS] | 2024-08-03 11:43:05 | Registration would be successful for alexii@gmail.com
+[ERROR] | 2024-08-03 11:54:24 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 11:54:24 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 11:54:24 | Invalid phone number format.
+[ERROR] | 2024-08-03 11:54:24 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 11:54:24 | Only JPG, JPEG & PNG files are allowed.
+[ERROR] | 2024-08-03 11:54:24 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:154]
+[ERROR] | 2024-08-03 12:02:17 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:02:17 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:02:17 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:02:17 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 12:02:17 | Only JPG, JPEG & PNG files are allowed.
+[ERROR] | 2024-08-03 12:02:17 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:154]
+[ERROR] | 2024-08-03 12:02:26 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:02:26 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:02:26 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:02:26 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 12:02:26 | Only JPG, JPEG & PNG files are allowed.
+[ERROR] | 2024-08-03 12:02:26 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:154]
+[ERROR] | 2024-08-03 12:02:52 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:02:52 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:02:52 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:02:52 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 12:02:52 | Only JPG, JPEG & PNG files are allowed.
+[ERROR] | 2024-08-03 12:02:52 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:154]
+[ERROR] | 2024-08-03 12:02:57 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:02:57 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:02:57 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:02:57 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 12:02:57 | Only JPG, JPEG & PNG files are allowed.
+[ERROR] | 2024-08-03 12:02:57 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:154]
+[ERROR] | 2024-08-03 12:03:17 | Invalid email format.
+[ERROR] | 2024-08-03 12:03:17 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:87]
+[ERROR] | 2024-08-03 12:03:17 | Invalid email format.
+[ERROR] | 2024-08-03 12:03:17 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:130]
+[ERROR] | 2024-08-03 12:03:59 | Invalid email format.
+[ERROR] | 2024-08-03 12:03:59 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:87]
+[ERROR] | 2024-08-03 12:03:59 | Invalid email format.
+[ERROR] | 2024-08-03 12:03:59 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:130]
+[ERROR] | 2024-08-03 12:14:12 | Invalid email format.
+[ERROR] | 2024-08-03 12:14:12 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:87]
+[ERROR] | 2024-08-03 12:14:12 | Invalid email format.
+[ERROR] | 2024-08-03 12:14:12 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:130]
+[ERROR] | 2024-08-03 12:17:08 | Invalid email format.
+[ERROR] | 2024-08-03 12:17:08 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:87]
+[ERROR] | 2024-08-03 12:17:08 | Invalid email format.
+[ERROR] | 2024-08-03 12:17:08 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:130]
+[ERROR] | 2024-08-03 12:18:43 | Invalid email format.
+[ERROR] | 2024-08-03 12:18:43 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:87]
+[ERROR] | 2024-08-03 12:18:43 | Invalid email format.
+[ERROR] | 2024-08-03 12:18:43 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:130]
+[ERROR] | 2024-08-03 12:19:52 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:19:52 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:19:52 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:19:52 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 12:20:28 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:20:28 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:20:28 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:20:28 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 12:22:51 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:22:51 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:22:51 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:22:51 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 12:29:47 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:29:47 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:29:47 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:29:47 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 12:30:12 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:30:12 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:30:12 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:30:12 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 12:37:57 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:37:57 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:37:57 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:37:57 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 12:43:27 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:43:27 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:43:27 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:43:27 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 12:45:59 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:45:59 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:45:59 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:45:59 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 12:47:43 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 12:47:44 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 12:47:44 | Invalid phone number format.
+[ERROR] | 2024-08-03 12:47:44 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 13:01:13 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 13:01:13 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 13:01:13 | Invalid phone number format.
+[ERROR] | 2024-08-03 13:01:13 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 13:01:58 | Invalid phone number format.
+[ERROR] | 2024-08-03 13:01:58 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 13:01:58 | Only JPG, JPEG & PNG files are allowed.
+[ERROR] | 2024-08-03 13:01:58 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:154]
+[ERROR] | 2024-08-03 13:02:19 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 13:02:19 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:122]
+[ERROR] | 2024-08-03 13:02:19 | Invalid phone number format.
+[ERROR] | 2024-08-03 13:02:19 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:144]
+[ERROR] | 2024-08-03 13:02:19 | Only JPG, JPEG & PNG files are allowed.
+[ERROR] | 2024-08-03 13:02:19 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:154]
+[ERROR] | 2024-08-03 13:03:23 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-03 13:03:23 | Invalid phone number format.
+[ERROR] | 2024-08-03 13:03:23 | Only JPG, JPEG & PNG files are allowed.
+[ERROR] | 2024-08-08 18:59:18 | A user with this email already exists.
+[ERROR] | 2024-08-08 18:59:18 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [D:\xampp\htdocs\itsecwb\debug_register.php:79]
+[ERROR] | 2024-08-09 12:17:10 | Invalid email format.
+[ERROR] | 2024-08-09 12:17:10 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [C:\xampp\htdocs\itsecwb\debug_register.php:90]
+[ERROR] | 2024-08-09 12:17:10 | Invalid email format.
+[ERROR] | 2024-08-09 12:17:10 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [C:\xampp\htdocs\itsecwb\debug_register.php:133]
+[ERROR] | 2024-08-09 12:17:10 | Invalid phone number format.
+[ERROR] | 2024-08-09 12:17:10 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [C:\xampp\htdocs\itsecwb\debug_register.php:147]
+[ERROR] | 2024-08-09 12:17:10 | Only JPG, JPEG & PNG files are allowed.
+[ERROR] | 2024-08-09 12:17:10 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [C:\xampp\htdocs\itsecwb\debug_register.php:157]
+[ERROR] | 2024-08-09 12:17:29 | Invalid email format.
+[ERROR] | 2024-08-09 12:17:29 | Invalid email format.
+[ERROR] | 2024-08-09 12:17:29 | Invalid phone number format.
+[ERROR] | 2024-08-09 12:17:29 | Only JPG, JPEG & PNG files are allowed.
+[ERROR] | 2024-08-09 13:01:05 | Invalid email format. Only Gmail and Yahoo email addresses are allowed.
+[ERROR] | 2024-08-09 13:01:05 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [C:\xampp\htdocs\itsecwb\debug_register.php:125]
+[ERROR] | 2024-08-09 13:01:05 | Invalid phone number format.
+[ERROR] | 2024-08-09 13:01:05 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [C:\xampp\htdocs\itsecwb\debug_register.php:147]
+[ERROR] | 2024-08-09 13:01:05 | Only JPG, JPEG & PNG files are allowed.
+[ERROR] | 2024-08-09 13:01:05 | Stack trace: <br>[0] => #0 callTracer(<b></b>) called at [C:\xampp\htdocs\itsecwb\debug_register.php:157]

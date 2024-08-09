@@ -1,0 +1,4 @@
+[2024-08-08 18:53:53] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 - Action: Edit - Blog ID: 13
+[2024-08-08 18:54:02] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 - Action: Edit - Blog ID: 13
+[2024-08-08 18:54:05] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 - Action: Delete - Blog ID: 13
+[2024-08-08 20:20:04] Admin (admin@test.com) - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0 - Action: Edit - Blog ID: 13
