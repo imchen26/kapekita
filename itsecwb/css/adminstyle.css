@@ -1,0 +1,215 @@
+/* Admin Settings */
+.adminsettings {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('coffeebg.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .adminsettings .container {
+    background: #fff;
+    max-width: 480px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  }
+
+  .adminsettings h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+    margin-top: 5px;
+  }
+
+  .adminsettings form {
+    margin-top: 22px; /* Adjust margin top inside the form */
+  }
+
+  .adminsettings input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .adminsettings button {
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px;
+    background: #b2744c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.5s ease;
+  }
+  
+  .adminsettings button:hover {
+    background: #8c5932;
+  }
+  
+  .adminsettings .alert {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .adminsettings .alert-danger {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+  }
+  
+  .adminsettings .alert-success {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+  }
+  
+  .adminsettings .form-control {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+
+/* Manage User */
+.btn {
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 10px;
+    background: #b2744c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.5s ease;
+}
+
+.btn:hover {
+    background: #8c5932;
+}
+
+.btn-add-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.popup-form-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-form-container {
+    position: relative;
+    background-color: #b2744c;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 60%;
+    max-width: 600px;
+    color: white;
+    overflow-y: auto; 
+    max-height: 80%;
+}
+
+.popup-form-container h2 {
+    margin-top: 0;
+}
+
+.popup-form-container form {
+    margin-top: 20px;
+}
+
+.popup-form-container form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.popup-form-container form input[type="text"],
+.popup-form-container form input[type="number"],
+.popup-form-container form input[type="email"],
+.popup-form-container form input[type="password"],
+.popup-form-container form input[type="file"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.popup-form-container form input[type="file"] {
+    padding-top: 5px;
+}
+
+.popup-form-container form button {
+    width: 100%;
+    padding: 10px;
+    background: #8c5932;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.5s ease;
+}
+
+.popup-form-container form button:hover {
+    background: #6e472b;
+}
+
+.popup-form-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.content-container {
+  position: relative;
+  z-index: 1;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: auto;
+}
+
+
+/* Manage Order */
+.btn-primary {
+  margin: auto;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+.btn-success {
+  margin: auto;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
